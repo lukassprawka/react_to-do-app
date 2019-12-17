@@ -17,5 +17,9 @@ Projekt stworzony w React
 Projekt dostępny na GitHub Pages: https://lukassprawka.github.io/react_to-do-app/
 
 Do uruchomienia lokalnie niezbędny jest Node.js Należy sklonować repozytorium, a następnie w katalogu z projektem wykonać polecenia:
-npm istall
-npm start
+
+```
+$ cd ../react_to-do-app-master
+$ npm install
+$ npm start
+```
